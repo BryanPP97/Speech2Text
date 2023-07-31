@@ -1,0 +1,7 @@
+
+.ipynb_checkpoints/Speech2Text-checkpoint.ipynb
+.spch2txt/
+.GRABACIONES/
+.speech2txt/
+*.csv
+*.wav
